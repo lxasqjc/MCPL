@@ -4,9 +4,9 @@
 ### [![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/tbc)
 ### [Project Page](https://mcpl.github.io)&ensp;&ensp;&ensp;
 
-![teaser](docs/teaser.pdf)
+![teaser](docs/teaser.png)
 
-![teaser](docs/method.pdf)
+![teaser](docs/method.png)
 
 
 
